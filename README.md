@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
 - 🌱 I’m currently learning RL, GAN, Recommender System, and GPU Programming.
-- 👯 I’m looking to collaborate on ML applied to Materials Science, RL to Baduk(GO) and Recommender system building.
+- 👯 I’m looking to collaborate on ML applied to Materials Science, RL to Baduk(Go) and Recommender system building.
 - 🤔 I'm looking for help with ML and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
