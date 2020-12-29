@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
-- 🌱 I’m currently learning RL, GAN, and GPU Programming (CUDA).
-- 👯 I’m looking to collaborate on ML applied to Materials Science, and RL to Baduk(Go).
+- 🌱 I’m currently learning GAN, RL, and VASP calculation.
+- 👯 I’m looking to collaborate on ML applied to Materials Science.
 - 🤔 I'm looking for help with ML and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
-- ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record is 585kg (1290lbs).
+- ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
 
 
 <!--
