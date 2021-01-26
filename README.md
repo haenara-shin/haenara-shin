@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
-- 🌱 I’m currently learning GAN, RL, DFT and VASP calculation.
+- 🌱 I’m currently learning GAN, GNN, and DFT calculation.
 - 👯 I’m looking to collaborate on ML applied to Materials Science.
 - 🤔 I'm looking for help with ML and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
