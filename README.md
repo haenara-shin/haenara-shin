@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :👋:
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:has163@ucsd.edu?subject=From%20GitHub&cc=has163@ucsd.edu&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
 - 🌱 I’m currently learning GAN, GNN, and DFT calculation.
