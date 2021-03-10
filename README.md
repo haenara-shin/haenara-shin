@@ -3,9 +3,8 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:has163@ucsd.edu?subject=From%20GitHub&cc=has163@ucsd.edu&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/haenara-shin/)
 
-- 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
-- 🌱 I’m currently learning GAN, GNN, and DFT calculation.
-- 👯 I’m looking to collaborate on ML applied to Materials Science.
+- 🔭 I’m currently working on 'Machine Learning and Data Science'. 
+- 🌱 I’m currently learning Full-stack web and iOS App development.
 - 🤔 I'm looking for help with ML and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
