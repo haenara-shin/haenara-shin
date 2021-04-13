@@ -33,7 +33,7 @@ Github | GithubPage | LinkedIn
 </span>
 
 ### _GitHub Stats Card_ 🗂
-[![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&hide=issues,contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/haenara-shin/github-readme-stats)
+[![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&hide=issues,contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **haenara-shin/haenara-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
