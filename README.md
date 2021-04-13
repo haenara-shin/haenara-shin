@@ -35,6 +35,9 @@ Github | GithubPage | LinkedIn
 ### _GitHub Stats Card_ 🗂
 [![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&repo=github-readme-stats&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### _GitHub Most Used Languages_ ✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haenara-shin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **haenara-shin/haenara-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
