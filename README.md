@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-navy?style=flat-square&logo=PyTorch&logoColor=white" />
 </span>
 
 ### _GitHub Stats Card_ 🗂
