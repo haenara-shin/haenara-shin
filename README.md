@@ -17,7 +17,7 @@
 ### _Tech Stack_ 📚
 <span>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
+<img src="https://img.shields.io/badge/C/C++-gray?style=flat-square&logo=C/C++&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square&logo=mongodb&logoColor=white" />
