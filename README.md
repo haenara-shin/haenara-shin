@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
 
 ### _GitHub Stats Card_ 🗂
-[![Jinho's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&hide=issues,contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/haenara-shin/github-readme-stats)
+[![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&hide=issues,contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/haenara-shin/github-readme-stats)
 
 <!--
 **haenara-shin/haenara-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
