@@ -3,7 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaenara-shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:has163@ucsd.edu?subject=From%20GitHub&cc=has163@ucsd.edu&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/haenara-shin/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning Full-stack web, SQL, and iOS App development.
@@ -12,6 +13,17 @@
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
 - ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
+
+### _Tech Stack_ 📚
+<span>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
+<img src="https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=JavaScript&logoColor=white" />
+</span>
 
 ### _GitHub Stats Card_ 🗂
 [![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&hide=issues,contribs&count_private=true&show_icons=true&theme=gotham)](https://github.com/haenara-shin/github-readme-stats)
