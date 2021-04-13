@@ -1,12 +1,12 @@
 ### Hi there :wave:
-Github | GithubBlog
+Github | GithubPage
 --- | ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaenara-shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhaenara-shin.github.io&count_bg=%23C83D5D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:has163@ucsd.edu?subject=From%20GitHub&cc=has163@ucsd.edu&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
 [![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1sEdd0GXWAH1GGwB3GB5G_g1Mq_NCQO6R/view?usp=sharing)](https://drive.google.com/file/d/1sEdd0GXWAH1GGwB3GB5G_g1Mq_NCQO6R/view?usp=sharing)
-[![MyGithubBlog🚀](https://img.shields.io/badge/GithubBlog-red?style=flat-square&logo=apache%20rocketmq&logoColor=white&link=https://haenara-shin.github.io/)](https://haenara-shin.github.io/)
+[![MyGithubPage🚀](https://img.shields.io/badge/GithubPage-red?style=flat-square&logo=apache%20rocketmq&logoColor=white&link=https://haenara-shin.github.io/)](https://haenara-shin.github.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
