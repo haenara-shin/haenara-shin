@@ -13,7 +13,9 @@ Github | GithubPage | LinkedIn
 - 🌱 I’m currently learning Full-stack web, SQL, and iOS App development.
 - 🤔 I'm looking for help with Deep Learning(OCR) and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
+  - 💬 Hidden repos. list of course materials @UCSD: CSE250B(AI algorithms) | COGS225 (Image Recog.) | ECE143 | ECE225A | ECE228 (ML for Physical App.) | ECE277 (CUDA) | ECE271B (Stat. Learning) | ECE271C (Deep Learning)
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
+
 
 - ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
 
