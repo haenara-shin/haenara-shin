@@ -14,8 +14,8 @@ Github | GithubPage | LinkedIn
 - 🤔 I'm looking for help with Deep Learning(OCR) and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
-: CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning)
-: Most of repositories related to the course materials @UCSD will be back to the private in June 2021.
+  * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning)
+  * Most of repositories related to the course materials @UCSD will be back to the private in June 2021.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
 
@@ -30,7 +30,7 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-navy?style=flat-square&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_learn-skyblue?style=flat-square&logo=Scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_learn-darkblue?style=flat-square&logo=Scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/C/C++-gray?style=flat-square&logo=C/C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
