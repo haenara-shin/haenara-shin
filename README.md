@@ -30,7 +30,7 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-navy?style=flat-square&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_learn-skyblue?style=flat-square&logo=Scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_learn-skyblue?style=flat-square&logo=Scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/C/C++-gray?style=flat-square&logo=C/C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
