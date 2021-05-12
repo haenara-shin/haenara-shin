@@ -26,7 +26,7 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Mysql-royalpink?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-yellow?style=flat-square&logo=nosql&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-orange?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
@@ -35,6 +35,7 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-yellow?style=flat-square&logo=nosql&logoColor=white" />
   
 </span>
 
