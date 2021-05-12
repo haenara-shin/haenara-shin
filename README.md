@@ -35,7 +35,6 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
-<img src="https://img.shields.io/badge/NoSQL-yellow?style=flat-square&logo=nosql&logoColor=white" />
   
 </span>
 
