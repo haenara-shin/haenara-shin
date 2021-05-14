@@ -10,7 +10,7 @@ Github | GithubPage | LinkedIn
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
-- 🌱 I’m currently learning Full-stack web, SQL, AWS, and MLOps.
+- 🌱 I’m currently learning Backend, SQL, AWS, and MLOps.
 - 🤔 I'm looking for help with Ops, AWS, and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
