@@ -10,7 +10,7 @@ Github | GithubPage | LinkedIn
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
-- 🌱 I’m currently learning Backend(Python-based), Docker & Kubernetes, SQL, AWS, and MLOps.
+- 🌱 I’m currently learning Backend(Python-based, Flask), Docker & Kubernetes, SQL, AWS, and MLOps.
 - 🤔 I'm looking for help with Ops, AWS, and iOS App development.
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
@@ -26,7 +26,7 @@ Github | GithubPage | LinkedIn
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Mysql-royalpink?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-orange?style=flat-square&logo=kubernetes&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Kubernetes-orange?style=flat-square&logo=kubernetes&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
