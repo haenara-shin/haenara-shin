@@ -24,11 +24,12 @@ Github | GithubPage | LinkedIn
 ### _Tech Stack_ 📚
 <span>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-yellow?style=flat-square&logo=Flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django&logoColor=white" />
 <img src="https://img.shields.io/badge/Mysql-royalpink?style=flat-square&logo=mysql&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Kubernetes-orange?style=flat-square&logo=kubernetes&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/MongoDB-purple?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-navy?style=flat-square&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_learn-royalblue?style=flat-square&logo=Scikit-learn&logoColor=white" />
