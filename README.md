@@ -11,7 +11,7 @@ Github | GithubPage | LinkedIn
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning Docker, Computer Vision DL, and TimeSeries ML/DL task.
-- 🤔 I'm participating in the deep learning competition related to the GAN and TimeSeries ML/DL task.
+- 🤔 I'm participating in the deep learning competition related to the GAN, TimeSeries ML/DL task, and Image Detection(Kaggle Competition).
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
   * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning)
