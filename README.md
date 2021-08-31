@@ -5,7 +5,7 @@ Github | GithubPage | LinkedIn
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:has163@ucsd.edu?subject=From%20GitHub&cc=has163@ucsd.edu&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
-[![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1vpvOOyndUYtKdseWbZcMpAyLeDnhpcpz/view?usp=sharing)](https://drive.google.com/file/d/1vpvOOyndUYtKdseWbZcMpAyLeDnhpcpz/view?usp=sharingg)
+[![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)](https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)
 [![MyGithubPage🚀](https://img.shields.io/badge/GithubPage-red?style=flat-square&logo=apache%20rocketmq&logoColor=white&link=https://haenara-shin.github.io/)](https://haenara-shin.github.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
