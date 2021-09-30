@@ -12,7 +12,7 @@ Github | GithubPage | LinkedIn
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning Docker, Computer Vision DL, and TimeSeries ML/DL task.
 - 🤔 I'm participating in the 3D image classification (Kaggle competition).
-  * :tada: Our team(@Seungwon and @Jiyoon) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
+  * :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
   * For the Optiver Kaggle competition(TimeSeries prediction), I finally ranked at 29/3965 - Top 1% - (in public LB, Sept. 28 2021) and it will be finalized in Jan. 2022. 
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
