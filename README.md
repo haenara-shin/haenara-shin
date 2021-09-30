@@ -11,11 +11,14 @@ Github | GithubPage | LinkedIn
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning Docker, Computer Vision DL, and TimeSeries ML/DL task.
-- 🤔 I'm participating in the deep learning competition related to the GAN, TimeSeries prediction (Kaggle competition), and 3D image classification (Kaggle competition).
+- 🤔 I'm participating in the 3D image classification (Kaggle competition).
+  * :tada: Our team for '2021 Deep Learning AI Competition in South Korea'([The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)) won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! 
+  * For the Optiver Kaggle competition(TimeSeries prediction), I finally ranked at 29/3965 - Top 1% - (in public LB, Sept. 28 2021) and it will be finalized in Jan. 2022. 
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. list of course materials @UCSD
   * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning)
   * Most of repositories related to the course materials @UCSD will be back to the private in June 2021.
+  * Please do not copy or fork the repos. related to the UCSD classes' materials.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
 
