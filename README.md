@@ -11,14 +11,15 @@ Github | GithubPage | LinkedIn
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning Docker, Computer Vision DL, and TimeSeries ML/DL task.
-- 🤔 I'm participating in the 3D image classification (Kaggle competition).
-  * :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
-  * For the [Optiver Kaggle competition](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description)(TimeSeries prediction), I finally ranked at 28/3965 - Top 1% - (in public LB, Sept. 28 2021. This date is the final submission deadline). Starting after the final submission deadline there will be periodic updates to the leaderboard to reflect market data updates that will be run against selected notebooks (this will be finalized in Jan. 10 2022).
+- 🤔 I'm participating in the [Kaggle's image prediction competition](https://www.kaggle.com/c/petfinder-pawpularity-score/overview). I am now ranked at 25/2083 - Top 2% - (in public LB, Nov. 16 2021. This competition will be ended at Jan. 13 2022.)
+ * For the [Optiver Kaggle competition](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description)(TimeSeries prediction), I finally ranked at 28/3965 - Top 1% - (in public LB, Sept. 28 2021. This date is the final submission deadline). Starting after the final submission deadline there will be periodic updates to the leaderboard to reflect market data updates that will be run against selected notebooks (this will be finalized in Jan. 10 2022).
+ * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first competition related to the Natural Language Processing (NLP), I tentatively ranked at 75/959 - Top 8% (in private LB, not yet finalized). ✨Bronze medal✨ will be awarded 😊.
+- :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
-- 💬 Hidden repos. list of course materials @UCSD
+- 💬 Hidden repos. (course materials @UCSD)
   * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning)
-  * Most of repositories related to the course materials @UCSD will be back to the private in June 2021.
-  * Please do not copy or fork the repos. related to the UCSD classes' materials.
+  * Most of repositories related to the course materials @UCSD are now back to the private.
+  * Please do not copy or fork the repos. related to the UCSD classes' materials. Also, I will not repond to the inquiry or emails related to them.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
 
