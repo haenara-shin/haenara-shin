@@ -8,6 +8,7 @@ Github | GithubPage | LinkedIn
 [![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)](https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)
 [![MyGithubPage🚀](https://img.shields.io/badge/GithubPage-red?style=flat-square&logo=apache%20rocketmq&logoColor=white&link=https://haenara-shin.github.io/)](https://haenara-shin.github.io/)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
+![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{haenara})
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning CS101.
