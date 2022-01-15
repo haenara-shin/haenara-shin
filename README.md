@@ -10,7 +10,7 @@ Github | GithubPage | LinkedIn
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
-- 🌱 I’m currently learning Computer Vision, TimeSeries ML/DL tasks and developing the simple stock-trading system.
+- 🌱 I’m currently learning CS101.
 - 😎 I (soon) become a Kaggle Expert in Code Competition section.
   * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am (tentatively) ranked at 170/3545 - Top 5% (in private LB, soon to be finalized in a week). ✨Silver medal✨ will be awarded 😊
   * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze medal✨ is awarded 😊.
