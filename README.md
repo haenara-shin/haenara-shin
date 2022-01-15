@@ -12,11 +12,10 @@ Github | GithubPage | LinkedIn
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning CS101.
-- 😎 I (soon) become a Kaggle Expert in Code Competition section.
-  * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am (tentatively) ranked at 170/3545 - Top 5% (in private LB, soon to be finalized in a week). ✨Silver medal✨ will be awarded 😊
-  * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze medal✨ is awarded 😊.
-  * ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haenara/competition)
-- :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
+- 🏅 I (soon) become a Kaggle Expert💜 in Code Competition section.
+  * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am (tentatively) ranked at 170/3545 - Top 5% (in private LB, soon to be finalized in a week). ✨Silver🥈 medal✨ will be awarded 😊
+  * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze🥉 medal✨ is awarded 😊.
+- :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place ('대상') 🏆: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
 - 🤔 Will be updated soon. 
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
 - 💬 Hidden repos. (course materials @UCSD)
@@ -27,6 +26,9 @@ Github | GithubPage | LinkedIn
 
 
 - ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
+
+### _Kaggle Code Competition_ 😎
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haenara/competition)
 
 ### _Tech Stack_ 📚
 <span>
