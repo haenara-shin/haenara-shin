@@ -13,6 +13,7 @@ Github | GithubPage | LinkedIn
 - 🔭 I’m currently working on 'Machine Learning and Data Science'. 
 - 🌱 I’m currently learning CS101.
 - 🏅 I become a Kaggle Expert💜(Ranking: 1394/177097) in the Code Competition section (Jan 19, 2022).
+  * For the time being, I will not participate in any competition due to just focusing on my newly started graduate course 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
   * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am ranked at 165/3537 - Top 5% (in private LB). ✨Silver🥈 medal✨ is awarded 😊
   * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze🥉 medal✨ is awarded 😊.
 - :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place ('대상') 🏆: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
