@@ -10,9 +10,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 ![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
 
-- 🔭 I’m currently working on 'Machine Learning and Data Science'. 
-- 🌱 I’m currently learning CS101.
-- 🏅 I become a Kaggle Expert💜(Ranking: 1394/177097) in the Code Competition section (Jan 19, 2022).
+- 🔭 I’m currently working on Deep Learning under the lack of dataset situation in the medical domain or un-natural images. 
+<!-- - 🌱 I’m currently learning . -->
+- 🏅 I became a Kaggle Expert💜(Ranking: 1394/177097) in the Code Competition section (Jan 19, 2022).
   * For the time being, I will not participate in any competition due to just focusing on my newly started programs 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
   * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am ranked at 165/3537 - Top 5% (in private LB). ✨Silver🥈 medal✨ is awarded 😊
   * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze🥉 medal✨ is awarded 😊.
