@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 ![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
 
-- 🔭 I’m currently working on Deep Learning on Histopathology images. 
+- 🔭 I’m currently working on Deep Learning for Histopathology images at Portrai Inc.
 <!-- - 🌱 I’m currently learning . -->
 - 🏅 I became a Kaggle Expert💜 in the Code Competition section (Jan 19, 2022).
   * For the time being, I will not participate in any competition due to just focusing on my newly started programs 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
