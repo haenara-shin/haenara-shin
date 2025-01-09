@@ -13,15 +13,15 @@
 - 🔭 I’m currently working on Deep Learning for Histopathology images at Portrai Inc.
 <!-- - 🌱 I’m currently learning . -->
 - 🏅 I became a Kaggle Expert💜 in the Code Competition section (Jan 19, 2022).
-  * For the time being, I will not participate in any competition due to just focusing on my newly started programs 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
+  * For now, I will not participate in any competition 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
 - :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place ('대상') 🏆: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
-- 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
+- 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects, and Coding interview practice.
 <!--   * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning) -->
   * Please do not copy or fork the repos. related to the UCSD classes' materials. Also, I will not respond to the inquiry or emails related to them.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
 
-- ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290lbs) before covid-19.
+- ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290 lbs) before COVID-19.
 
 ### _Kaggle Code Competition_ 😎
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haenara/competition)
