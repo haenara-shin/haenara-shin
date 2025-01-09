@@ -10,18 +10,13 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 ![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
 
-- 🔭 I’m currently working on Deep Learning under the lack of dataset situation in the medical domain or un-natural images. 
+- 🔭 I’m currently working on Deep Learning on Histopathology images. 
 <!-- - 🌱 I’m currently learning . -->
-- 🏅 I became a Kaggle Expert💜(Ranking: 1394/177097) in the Code Competition section (Jan 19, 2022).
+- 🏅 I became a Kaggle Expert💜 in the Code Competition section (Jan 19, 2022).
   * For the time being, I will not participate in any competition due to just focusing on my newly started programs 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
-  * For the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score), I am ranked at 165/3537 - Top 5% (in private LB). ✨Silver🥈 medal✨ is awarded 😊
-  * For the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze🥉 medal✨ is awarded 😊.
 - :tada: Our team(Many thanks to [@seungwon song](https://github.com/sw-song) and [@jiyoon baek](https://github.com/jiyoonbaekbaek)) for '2021 Deep Learning AI Competition in South Korea' won a contest (1st place ('대상') 🏆: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상'). Hurray Hurrah! Please check :blush: and star :star2: this [The Pet's Face Aging/Rejuvenation GAN project - Throwback to when your pets were babies using GAN time machine](https://github.com/haenara-shin/GAN_Project)
-- 🤔 Will be updated soon. 
 - 😄 There are many private hidden repositories for course materials of ECE/CSE@UCSD, ML projects and Coding interview practice.
-- 💬 Hidden repos. (course materials @UCSD)
 <!--   * CSE250B(AI algorithms) | ECE225A (Statistics) | ECE228 HW (ML for Physical App.) | ECE271B HW(Stat. Learning) | ECE271C (Deep Learning) -->
-  * Most of repositories related to the course materials @UCSD are now back to the private.
   * Please do not copy or fork the repos. related to the UCSD classes' materials. Also, I will not respond to the inquiry or emails related to them.
 - 📫 How to reach me: haenara.shin(at)gmail.com, has163(at)ucsd.edu
 
