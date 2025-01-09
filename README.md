@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=github,githubactions,docker,py,pytorch,tensorflow,cuda,anaconda,vscode&theme=light" />  
+<img src="https://skillicons.dev/icons?i=github,githubactions,docker,c++,py,pytorch,tensorflow,scikit-learn,anaconda,vscode,sublimetext,linkedin&theme=light" />  
 </span>
 
 ### _GitHub Stats Card_ 🗂
