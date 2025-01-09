@@ -7,8 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
 [![Resume](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1UuuicorEn1Wi7PPNmr9MiXUuzAfR9lv_/view?usp=sharing)](https://drive.google.com/file/d/1UuuicorEn1Wi7PPNmr9MiXUuzAfR9lv_/view?usp=sharing)
 [![MyGithubPage🚀](https://img.shields.io/badge/GithubPage-red?style=flat-square&logo=apache%20rocketmq&logoColor=white&link=https://haenara-shin.github.io/)](https://haenara-shin.github.io/)
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-plates/Competitions/white.svg)
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
-![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
+
 
 - 🔭 I’m currently working on Deep Learning for Histopathology images at Portrai Inc.
 <!-- - 🌱 I’m currently learning . -->
@@ -22,9 +24,6 @@
 
 
 - ⚡ Fun fact: Since 2006, I have been doing weight-lifting and bodybuilding. I won the bodybuilding competition in Daejeon, South Korea, and my big three record was 585kg (1290 lbs) before COVID-19.
-
-### _Kaggle Code Competition_ 😎
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haenara/competition)
 
 ### _Tech Stack_ 📚
 <span>
@@ -53,7 +52,9 @@
 
 <!--
 **haenara-shin/haenara-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
+### _Kaggle Code Competition_ 😎
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/haenara/competition)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 'Machine Learning and Data Science' and 'Materials Science and Engineering.' 
