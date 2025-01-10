@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,latex,matlab,sublime,notion,opencv,cpp,py,pytorch,tensorflow,sklearn,anaconda,vscode,linkedin&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,latex,matlab,sublime,notion,opencv,cpp,py,pytorch,tensorflow,sklearn,anaconda,vscode,linkedin&theme=light"/>
 <img src="https://skills-icons.vercel.app/api/icons?i=jupyter,huggingface&theme=light" />
 </span>
 
