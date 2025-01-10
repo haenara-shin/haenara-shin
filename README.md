@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,latex,matlab,sublime,notion,opencv,cpp,py,pytorch,tensorflow,sklearn,anaconda,vscode,linkedin&theme=light" />
-![Skills](https://skills-icons.vercel.app/api/icons?i=jupyter,huggingface)
 </span>
+![Skills](https://skills-icons.vercel.app/api/icons?i=jupyter,huggingface)
 
 ### _GitHub Stats Card_ 🗂
 [![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&repo=github-readme-stats&hide=issues,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
