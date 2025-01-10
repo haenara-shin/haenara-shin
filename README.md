@@ -39,13 +39,14 @@
 <img src="https://img.shields.io/badge/TensorFlow-red?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-navy?style=flat-square&logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_learn-royalblue?style=flat-square&logo=Scikit-learn&logoColor=white" />
- <img src="https://img.shields.io/badge/wandb-skypurple?style=flat-square&logo=wandb&logoColor=white" />
+<img src="https://img.shields.io/badge/wandb-skypurple?style=flat-square&logo=wandb&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-gray?style=flat-square&logo=C++&logoColor=white" />
 <img src="https://img.shields.io/badge/CUDA-green?style=flat-square&logo=CUDA&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat-square&logo=MATLAB&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,latex,matlab,sublime,notion,opencv,cpp,py,pytorch,tensorflow,sklearn,anaconda,vscode,linkedin&theme=light" />
 </span>
 ![Skills](https://skills-icons.vercel.app/api/icons?i=jupyter,huggingface)
+![Skills](https://skills-icons.vercel.app/api/icons?i=js,ts,node,expressjs,mongodb,prisma)
 
 ### _GitHub Stats Card_ 🗂
 [![Haenara's github stats](https://github-readme-stats.vercel.app/api?username=haenara-shin&repo=github-readme-stats&hide=issues,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
