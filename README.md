@@ -11,7 +11,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 
 
-- 🔭 I’m currently working on Deep Learning for Histopathology images at Portrai Inc.
+- 🔭 I’m currently working as the AI/ML Research Engineer at [Portrai Inc](https://portrai.io/en).
 <!-- - 🌱 I’m currently learning . -->
 - 🏅 I became a Kaggle Expert💜 in the Code Competition section (Jan 19, 2022).
   * For now, I will not participate in any competition 😅. But, I will be back soon to hunt the gold🥇 medal to become a Kaggle Master 😁.
